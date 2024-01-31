@@ -108,7 +108,7 @@ export const Footer = () => {
           </div>
           <br />
           <div>
-            <a href="https:/wa.me/5551991944447" target="_blank">
+            <a href="https://wa.me/5551991944447" target="_blank">
               <WhatsAppIcon id="whatsap" />
             </a>
             <a href="mailto:yuri.aresi10@gmail.com"><EmailIcon id="email"/></a>

@@ -49,7 +49,7 @@ const TextoAnimad = styled.div`
     65%,
     80%,
     85% {
-      width: calc(100% + 18px);
+      width: calc(100% + 10px);
     }
   }
   @keyframes cursor {
@@ -96,7 +96,7 @@ export function TextoAnimado() {
       <br />
       <p>Apaixonado por Tecnologia e jogos. </p>
       <br />
-      <p>Novo Hamburgo, Rio grande do Sul</p>
+      <p>Novo Hamburgo, Rio grande do Sul.</p>
     </TextoAnimad>
   );
 }

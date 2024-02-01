@@ -88,6 +88,9 @@ const DivConteudo = styled.main`
       justify-content: center;
     }
   }
+  #divHabilidades{
+    margin-top:50px;
+  }
 `;
 
 export function Conteudo() {
@@ -129,7 +132,7 @@ export function Conteudo() {
               dedicado, ter habilidades em trabalho em equipe, ser organizado,
               proativo, paciente e ter muita vontade de aprender. Estou sempre
               buscando novos desafios e oportunidades para aprimorar minhas
-              habilidades e conhecimentos
+              habilidades e conhecimentos.
             </p>
           </Grid>
           <Grid id="divImageSobre" xs={12} md={4}>

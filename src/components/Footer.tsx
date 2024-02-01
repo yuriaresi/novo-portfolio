@@ -102,8 +102,8 @@ export const Footer = () => {
           </div>
           <div>
             <p>
-              Um Desenvolvedor em aprendizagem focado no front-end, aberto a
-              novas oportunidades
+              Um Desenvolvedor em aprendizagem, focado no front-end, aberto a
+              novas oportunidades.
             </p>
           </div>
           <br />
@@ -119,7 +119,7 @@ export const Footer = () => {
         <p>
           © Copyright 2024.Feito por{" "}
           <a target="_blank" href="https://www.linkedin.com/in/yuriaresi/">
-            Yuri
+            Yuri.
           </a>
         </p>
       </div>

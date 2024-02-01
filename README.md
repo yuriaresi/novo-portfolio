@@ -1,30 +1,37 @@
-# React + TypeScript + Vite
+# Novo Portfólio - Yuri Aresi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu novo portfólio! Este projeto foi desenvolvido utilizando React, TypeScript, Styled Components e Material-UI.
 
-Currently, two official plugins are available:
+## Demonstração
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Você pode conferir uma demonstração do meu portfólio [aqui](https://yuri-portfolio-rho.vercel.app).
 
-## Expanding the ESLint configuration
+## Como Rodar Localmente
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Certifique-se de ter o Node.js instalado em seu ambiente.
 
-- Configure the top-level `parserOptions` property like this:
+1. Clone o repositório:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+   ```bash
+   git clone https://github.com/yuriaresi/novo-portfolio.git
+Entre no diretório do projeto:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+bash
+Copy code
+cd novo-portfolio
+Instale as dependências:
+
+bash
+Copy code
+npm install
+Inicie o aplicativo:
+
+bash
+Copy code
+npm run dev
+
+Personalização
+Sinta-se à vontade para personalizar este portfólio de acordo com suas necessidades. Adicione novas seções, projetos ou qualquer informação relevante ao seu perfil.
+
+Contribuição
+Se você encontrar problemas, bugs ou melhorias potenciais, fique à vontade para abrir uma "issue" ou enviar um "pull request". Contribuições são sempre bem-vindas!

@@ -164,7 +164,7 @@ export function Header(props: HeaderProps) {
           <li>
             <a
               id="link"
-              href="https://drive.usercontent.google.com/download?id=1nAxisUN6krWg8byC8YZYbI2pVk6O39QG&export=download&authuser=0&confirm=t&uuid=d9e53cfa-e4ee-48bf-b19a-c97ddb748c82&at=APZUnTWYpQUmzme4t-aH7PPB7trT:1706742075849"
+              href="https://drive.usercontent.google.com/download?id=1UrIxj40-lcr5rpFSgQZ1wGSRf-KDs8Q6&export=download&authuser=0&confirm=t&uuid=bc8750b9-4278-4950-8247-65c3db8b42f8&at=APZUnTU_420-wnCc7iR-mRv_-8Zi:1707140656631"
             >
               Download curriculo
             </a>

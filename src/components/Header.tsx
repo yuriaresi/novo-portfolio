@@ -162,12 +162,12 @@ export function Header(props: HeaderProps) {
             <a href={props.contato}>Contato</a>
           </li>
           <li>
-            <a
+{/*             <a
               id="link"
               href="https://drive.usercontent.google.com/download?id=1UrIxj40-lcr5rpFSgQZ1wGSRf-KDs8Q6&export=download&authuser=0&confirm=t&uuid=bc8750b9-4278-4950-8247-65c3db8b42f8&at=APZUnTU_420-wnCc7iR-mRv_-8Zi:1707140656631"
             >
               Download curriculo
-            </a>
+            </a> */}
           </li>
         </ul>
       </nav>
